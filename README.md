@@ -2,11 +2,11 @@
 
 Bu kılavuz, ağ güvenliği ve sistem analizi için çeşitli tarama yöntemlerini detaylı bir şekilde açıklamak üzere hazırlanmıştır. Aşağıdaki başlıklar, farklı tarama senaryolarını ele alır:
 
-- [Çıktı Seçenekleri](cikti-secenekleri.md)
+- [Çıktı Seçenekleri](NMAP/cikti-secenekleri.md)
 - [Gizli & Agresif Tarama](NMAP/gizli&agresif-tarama.md)
-- [NSE (Nmap Scripting Engine)](nse.md)
-- [Port Tarama](port-tarama.md)
-- [Taramalar](taramalar.md)
+- [NSE (Nmap Scripting Engine)](NMAP/nse.md)
+- [Port Tarama](NMAP/port-tarama.md)
+- [Taramalar](NMAP/taramalar.md)
 
 Her başlık, ağ analizi sırasında ihtiyaç duyabileceğiniz yöntem ve komutları kapsamaktadır. Detaylı bilgi için ilgili başlığa tıklayabilirsiniz.
 
