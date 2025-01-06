@@ -6,7 +6,7 @@ Bu kılavuz, ağ güvenliği ve sistem analizi için çeşitli tarama yöntemler
 - [Gizli & Agresif Tarama](gizli&agresif-tarama.md)
 - [NSE (Nmap Scripting Engine)](nse.md)
 - [Port Tarama](port-tarama.md)
-
+- [Taramalar](taramalar.md)
 Her başlık, ağ analizi sırasında ihtiyaç duyabileceğiniz yöntem ve komutları kapsamaktadır. Detaylı bilgi için ilgili başlığa tıklayabilirsiniz.
 
 ## Nasıl Kullanılır?
